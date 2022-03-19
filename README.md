@@ -9,8 +9,7 @@ linguagem SQL
 
  - [NBA Advanced Stats (Inglês) ](https://www.nba.com/stats/)
  - [MySQL Documentation (Inglês)](https://dev.mysql.com/doc/)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
+ 
 
 ## Autores
 
