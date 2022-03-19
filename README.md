@@ -15,7 +15,7 @@ linguagem SQL
 ## Autores
 
 - Yasmin Ramos [@yasminramos](https://www.github.com/yasminramos)
-- Breno Garduci [@yasminramos](https://www.github.com/yasminramos)
+- Breno Garduci [@Garduciz](https://www.github.com/Garduciz)
 - Rafael Peruzini [@yasminramos](https://www.github.com/yasminramos)
 - Tulio Roberto [@tuliorsc10](https://www.github.com/tuliorsc10)
 - Mauro Mendes [@maurocmendes](https://www.github.com/maurocmendes)
