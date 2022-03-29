@@ -103,6 +103,7 @@ Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementada
 
 :memo: [Análise de Dados com R](https://github.com/maurocmendes/M3-NBA-DataAnalytics-R)
 
+:memo: [Análise de Dados com M e DAX - PowerBI](https://github.com/maurocmendes/M3-NBA-DataAnalytics-POWERBI)
 
 .
 .
