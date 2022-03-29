@@ -29,9 +29,9 @@ linguagem SQL
 
 ## Pré-requisitos
 
-:warning: [MySQL](https://dev.mysql.com/downloads/workbench/) * Ferramenta usada e recomendada pela squad
-:warning: [Git](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git) *Site oficial do GIT
-:warning: [Git](https://www.hostinger.com.br/tutoriais/tutorial-do-git-basics-introducao) * Tutorial completo da Hostinger
+- :warning: [MySQL](https://dev.mysql.com/downloads/workbench/) * Ferramenta usada e recomendada pela squad
+- :warning: [Git](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git) *Site oficial do GIT
+- :warning: [Git](https://www.hostinger.com.br/tutoriais/tutorial-do-git-basics-introducao) * Tutorial completo da Hostinger
 
 ...
 
