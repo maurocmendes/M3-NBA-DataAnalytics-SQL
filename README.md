@@ -11,15 +11,15 @@
 
 > Status do Projeto: :heavy_check_mark: Concluído
 
-### Tópicos 
+## Tópicos 
 
-:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
+:small_blue_diamond: [Descrição do projeto](#sobre)
 
 :small_blue_diamond: [Pré-requisitos](#pré-requisitos)
 
 :small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
 
-## Sobre o projeto 
+## Sobre
 
 <p align="justify">
 Criação de dashboard através de análise de base de dados feita usando a 
