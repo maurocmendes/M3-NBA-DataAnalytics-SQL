@@ -1,5 +1,5 @@
 
-<p align="center"> <h1> Projeto Final M3 - Analise de Dados - NBA 🏀 </h1></p>
+<h1 align="center"> Projeto Final M3 - Analise de Dados - NBA 🏀 </h1>
 
 
 <p align="center">
