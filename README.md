@@ -30,7 +30,8 @@ linguagem SQL
 ## Pré-requisitos
 
 :warning: [MySQL](https://dev.mysql.com/downloads/workbench/) * Ferramenta usada e recomendada pela squad
-:warning: [Git](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git)[Git](https://www.hostinger.com.br/tutoriais/tutorial-do-git-basics-introducao) * Opcional
+:warning: [Git](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git) *Site oficial do GIT
+:warning: [Git](https://www.hostinger.com.br/tutoriais/tutorial-do-git-basics-introducao) * Tutorial completo da Hostinger
 
 ...
 
@@ -77,9 +78,9 @@ Se for necessário configurar algo antes de iniciar o banco de dados insira os c
 
 Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplicação
 
-:memo: [Análise de Dados com Python](Link do repositório)
+:memo: [Análise de Dados com Python](https://github.com/maurocmendes/M3-NBA-DataAnalytics-PYTHON)
 
-:memo: [Análise de Dados com R](Link do repositório)
+:memo: [Análise de Dados com R](https://github.com/maurocmendes/M3-NBA-DataAnalytics-R)
 
 ## Desenvolvedores/Contribuintes :octocat:
 
