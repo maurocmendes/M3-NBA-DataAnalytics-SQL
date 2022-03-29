@@ -33,7 +33,9 @@ linguagem SQL
 - :warning: [Git](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git) *Site oficial do GIT
 - :warning: [Git](https://www.hostinger.com.br/tutoriais/tutorial-do-git-basics-introducao) * Tutorial completo da Hostinger
 
-...
+.
+.
+.
 
 
 ## Como instalar o MySQL Workbench :arrow_forward:
@@ -47,6 +49,11 @@ Siga as instruções da página oficial
 [Em caso de dúvidas na instalação acesse o tutorial do nosso parceiro - HOSTINGER Brasil ](https://youtu.be/zpssr3u1EO8) 
 
 **Dica: Durante a instalação haverá uma etapa para definição de senha do administrador. Após defini-la, guarde-a em um lugar seguro pois será necessária para efetuar a conexão com o banco de dados**
+
+
+.
+.
+.
 
 
 ## Como baixar o repositório com os arquivos CSV contendo os dados e algumas queries de exemplo :arrow_forward:
@@ -65,14 +72,28 @@ git clone https://github.com/maurocmendes/M3-NBA-DataAnalytics-SQL.git
 **Dica: Esse método manual não permite que você acompanhe/atualize os novos arquivos e atualiações do repositório oficial. Sempre que possível USE O GIT para clonar e consumir repositórios **
 
 
+.
+.
+.
+
 
 ## Iniciando/Configurando banco de dados
 
 Se for necessário configurar algo antes de iniciar o banco de dados insira os comandos a serem executados 
 
+
+.
+.
+.
+
 ## Linguagens, dependencias e libs utilizadas :books:
 
 - [SQL](https://www.devmedia.com.br/guia/guia-completo-de-sql/38314)
+
+
+.
+.
+.
 
 ## Tarefas em aberto
 
@@ -81,6 +102,11 @@ Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementada
 :memo: [Análise de Dados com Python](https://github.com/maurocmendes/M3-NBA-DataAnalytics-PYTHON)
 
 :memo: [Análise de Dados com R](https://github.com/maurocmendes/M3-NBA-DataAnalytics-R)
+
+
+.
+.
+.
 
 ## Desenvolvedores/Contribuintes :octocat:
 
