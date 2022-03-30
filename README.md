@@ -79,7 +79,7 @@ git clone https://github.com/maurocmendes/M3-NBA-DataAnalytics-SQL.git
 
 ## Iniciando/Configurando banco de dados
 
-Se for necessário configurar algo antes de iniciar o banco de dados insira os comandos a serem executados 
+..
 
 
 .
@@ -97,7 +97,6 @@ Se for necessário configurar algo antes de iniciar o banco de dados insira os c
 
 ## Tarefas em aberto
 
-Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplicação
 
 :memo: [Análise de Dados com Python](https://github.com/maurocmendes/M3-NBA-DataAnalytics-PYTHON)
 
