@@ -44,3 +44,22 @@ then 'Jogador Lendário'
 else 'Jogador bom'
 end as Ranking from games_details group by PLAYER_ID having max(PTS) order by PTS desc;
 
+#Time que mais pontuou em casa
+select TEAM_ID, TEAM, sum(games.PTS_home) as Pontos_Em_Casa
+from rankings inner join games on rankings.TEAM_ID = games.HOME_TEAM_ID 
+where SEASON between '2003' and '2019'
+order by PTS_home;
+
+#Time que mais pontuou fora de casa
+select TEAM_ID, TEAM, sum(games.PTS_away) as Pontos_Fora_De_Casa
+from rankings inner join games on rankings.TEAM_ID = games.VISITOR_TEAM_ID 
+where SEASON between '2003' and '2019'
+order by PTS_away;
+
+
+#Time que mais ganharam em casa
+select TEAM_ID, TEAM, count(games.HOME_TEAM_WINS) as Vitoria_Em_Casa
+from rankings inner join games on rankings.TEAM_ID = games.HOME_TEAM_ID 
+order by HOME_TEAM_WINS;
+
+
