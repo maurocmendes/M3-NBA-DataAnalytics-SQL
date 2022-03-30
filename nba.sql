@@ -31,3 +31,16 @@ where (games_details.AST) > 10 order by AST desc limit 10;
 #view 
 create view nba_assist as select distinct PLAYER_ID, PLAYER_NAME, max(AST) from games_details group by AST
 having max(AST) order by AST desc limit 10;
+
+
+#Visualização de rankings de jogadores 
+select PLAYER_NAME, TEAM_ABBREVIATION, TEAM_CITY, case
+when sum(PTS) < 200
+then 'Jogador Profissional'
+when sum(PTS) between 300 and 999
+then 'Jogador caro'
+when sum(PTS) > 1000
+then 'Jogador Lendário'
+else 'Jogador bom'
+end as Ranking from games_details group by PLAYER_ID having max(PTS) order by PTS desc;
+
