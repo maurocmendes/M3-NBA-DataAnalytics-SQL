@@ -113,7 +113,7 @@ Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementada
 
 - Yasmin Ramos [@yasminramos](https://www.github.com/yasminramos)
 - Breno Garduci [@Garduciz](https://www.github.com/Garduciz)
-- Rafael Peruzini [@yperuzini](https://www.github.com/peruzini)
+- Rafael Peruzini [@peruzini](https://www.github.com/peruzini)
 - Tulio Roberto [@tuliorsc10](https://www.github.com/tuliorsc10)
 - Mauro Mendes [@maurocmendes](https://www.github.com/maurocmendes)
 
